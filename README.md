@@ -43,29 +43,61 @@ Création de graphiques à barres empilées pour comparer les revenus domestique
 ![Capture d’écran 2024-06-18 à 19 36 42 (2)](https://github.com/watara13/Box_Ofiice/assets/171569734/fac36b55-16b7-4a57-9dfd-bd2217459552)
 
 Analyse des ventes régionales et des films les plus rentables.
+
+
 2019: $35,428,768,128
 
-top 5
+
+
+top 5:
 
 Avengers: Endgame
+
 The Lion King
+
 Frozen II
+
 Spider-Man: Far from Home
+
 Captain Marvel
+
+
+
+
+
 
 2020 $7,940,294,237
 
-top 5
+
+
+top 5:
+
 The Eight Hundred
+
 Demon Slayer: Mugen Train
+
 Bad Boys for Life
+
 My People, My Homeland
+
 Tenet
 
 
 
+
+
+
+
 Analyse des Résultats :
-Entre 2019 et 2020, le chiffre d'affaires mondial du box office a diminué de 77.58%, passant de $35,428,768,128 en 2019 à $7,940,294,237 en 2020. Cette baisse significative est principalement due à l'impact de la pandémie de COVID-19, qui a entraîné des fermetures de cinémas et des restrictions de déplacement à travers le monde, affectant ainsi gravement les ventes de billets.
+
+
+
+Entre 2019 et 2020:
+
+
+
+
+Le chiffre d'affaires mondial du box office a diminué de 77.58%, passant de $35,428,768,128 en 2019 à $7,940,294,237 en 2020. Cette baisse significative est principalement due à l'impact de la pandémie de COVID-19, qui a entraîné des fermetures de cinémas et des restrictions de déplacement à travers le monde, affectant ainsi gravement les ventes de billets.
 
 
 
@@ -74,7 +106,8 @@ Répartition des Revenus du Box Office (2019 & 2020) :
 
 
 
-Conclusions et Recommandations
+Conclusions et Recommandations:
+
 Impact du COVID-19 : Les revenus du box office ont considérablement diminué en 2020 par rapport à 2019 en raison de la pandémie.
 Stratégies Numériques : Explorer les plateformes de streaming comme source alternative de revenus.
 Marketing Régional : Adapter les stratégies marketing pour maximiser les revenus dans différentes régions.
